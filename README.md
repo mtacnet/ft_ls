@@ -6,7 +6,7 @@ Ft_ls est un projet ayant pour but de nous faire recoder la fonction ls.
 
 ls: ls est une commande POSIX (abréviation de list segments en anglais), qui permet d'afficher le contenu d'un répertoire.
 
-Son comportement doit être identique à celui de la commande ls originale du système, avec les indications suivantes :
+Son comportement doit être identique à celui de la commande ls originale du système, avec les indications suivantes:
 - Parmi les nombreuses options disponibles sur la ligne de commande, il nous est demandé de réaliser les suivantes : -l, -R, -a, -r et -t
 - Nous n'avons pas à gérer le formatage en plusieurs colonnes de la sortie quand l’option -l n’est pas passée.
 - Nous ne sommes pas obligés de gérer les ACL et les attributs étendus.
