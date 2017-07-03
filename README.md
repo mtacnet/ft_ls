@@ -14,7 +14,7 @@ Son comportement doit être identique à celui de la commande ls originale du sy
 
 Toutes les fonctions présentes ont été prototypées dans le fichier "ft_ls.h" et nous utilisons egalement notre Libft mise à jour avec les fonctions précédemment utilisées au cours des derniers projets.
 
-Pour finir, l'ensemble du projet est compilable via le Makefile. Les règles a dispositions sont les suivantes: clean, fclean, re
+Pour finir, l'ensemble du projet est compilable dans un environnement UNIX, via le Makefile. Les règles a dispositions sont les suivantes: clean, fclean, re
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 mtacnet@student.42.fr
